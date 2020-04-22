@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/comercio/static/css/main.4d69e75b.chunk.css",
-    "main.js": "/comercio/static/js/main.4c9b70d2.chunk.js",
-    "main.js.map": "/comercio/static/js/main.4c9b70d2.chunk.js.map",
+    "main.js": "/comercio/static/js/main.39859957.chunk.js",
+    "main.js.map": "/comercio/static/js/main.39859957.chunk.js.map",
     "runtime-main.js": "/comercio/static/js/runtime-main.f3624787.js",
     "runtime-main.js.map": "/comercio/static/js/runtime-main.f3624787.js.map",
     "static/js/2.e365d22f.chunk.js": "/comercio/static/js/2.e365d22f.chunk.js",
     "static/js/2.e365d22f.chunk.js.map": "/comercio/static/js/2.e365d22f.chunk.js.map",
     "index.html": "/comercio/index.html",
-    "precache-manifest.02b3ab0908984ce374bde1edb98c2fd4.js": "/comercio/precache-manifest.02b3ab0908984ce374bde1edb98c2fd4.js",
+    "precache-manifest.ba3f083973ae1e0040694520b3a52293.js": "/comercio/precache-manifest.ba3f083973ae1e0040694520b3a52293.js",
     "service-worker.js": "/comercio/service-worker.js",
     "static/css/main.4d69e75b.chunk.css.map": "/comercio/static/css/main.4d69e75b.chunk.css.map",
     "static/js/2.e365d22f.chunk.js.LICENSE.txt": "/comercio/static/js/2.e365d22f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f3624787.js",
     "static/js/2.e365d22f.chunk.js",
     "static/css/main.4d69e75b.chunk.css",
-    "static/js/main.4c9b70d2.chunk.js"
+    "static/js/main.39859957.chunk.js"
   ]
 }
