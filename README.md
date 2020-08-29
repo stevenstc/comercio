@@ -1,4 +1,6 @@
 # comercio
-Aquí tienes un ejemplo de como podras comprar y vender lo que quieras
+Aquí tienes un ejemplo de como podría lucir una tienda virtual para comprar y vender lo que quieras
 
-https://stevenstc.github.io/comercio/
+Ingresa: https://stevenstc.github.io/comercio/
+
+Tomado y modificado desde https://github.com/TRON-US/eCommerce-hello-world
